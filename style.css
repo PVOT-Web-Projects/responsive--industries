@@ -114,12 +114,11 @@ h6 {
   justify-content: start;
   justify-items: start;
 }
-.wdt-heading-title{
+.wdt-heading-title {
   text-transform: uppercase;
   align-items: center;
 }
-.modern_solution
-{
+.modern_solution {
   padding-bottom: 3rem;
 }
 .wdt-content-item .wdt-content-icon-wrapper .wdt-content-icon span i {
@@ -131,7 +130,7 @@ h6 {
   vertical-align: top;
   width: 1em;
 }
-.section_three{
+.section_three {
   padding-bottom: 120px;
 }
 /* .wdt-content-icon-wrapper {
@@ -141,6 +140,141 @@ h6 {
   color: #ffbe0b;
   background-color: #00000080;
 } */
+
+.elementor-1008
+  .elementor-element.elementor-element-fba1e60:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-1008
+  .elementor-element.elementor-element-fba1e60
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: var(--e-global-color-703803f);
+}
+.elementor-1008 .elementor-element.elementor-element-fba1e60 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-1008
+  .elementor-element.elementor-element-fba1e60
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-1008
+  .elementor-element.elementor-element-3924af1
+  > .elementor-element-populated {
+  border-style: solid;
+  border-width: 1px 0px 0px 0px;
+  border-color: #e5d7ca;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 150px 40px 0px 200px;
+}
+.elementor-1008
+  .elementor-element.elementor-element-3924af1
+  > .elementor-element-populated
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-1008
+  .elementor-element.elementor-element-e4e7483
+  .wdt-heading-holder,
+.elementor-1008
+  .elementor-element.elementor-element-e4e7483
+  .wdt-heading-holder
+  > .wdt-heading-separator-wrapper
+  .wdt-heading-separator,
+.elementor-1008
+  .elementor-element.elementor-element-e4e7483
+  .wdt-heading-holder
+  > .wdt-heading-title-wrapper
+  .wdt-heading-title,
+.elementor-1008
+  .elementor-element.elementor-element-e4e7483
+  .wdt-heading-holder
+  > .wdt-heading-subtitle-wrapper
+  .wdt-heading-subtitle {
+  text-align: start;
+  justify-content: start;
+  justify-items: start;
+}
+.elementor-1008
+  .elementor-element.elementor-element-e4e7483
+  .wdt-heading-holder
+  .wdt-heading-title-wrapper
+  .wdt-heading-title {
+  align-items: center;
+}
+.elementor-1008
+  .elementor-element.elementor-element-e4e7483
+  .wdt-heading-holder
+  .wdt-heading-subtitle-wrapper
+  .wdt-heading-subtitle {
+  align-items: center;
+}
+.elementor-1008
+  .elementor-element.elementor-element-e4e7483
+  .wdt-heading-holder
+  .wdt-heading-subtitle-wrapper {
+  color: var(--e-global-color-accent);
+}
+.elementor-1008
+  .elementor-element.elementor-element-13323f9
+  .elementor-widget-container {
+  text-align: start;
+  justify-content: start;
+  justify-items: start;
+}
+.elementor-1008
+  .elementor-element.elementor-element-13323f9
+  .wdt-button-holder
+  .wdt-button {
+  margin: 40px 0px 0px 0px;
+}
+.elementor-1008
+  .elementor-element.elementor-element-8dce64f
+  > .elementor-element-populated {
+  border-style: solid;
+  border-width: 1px 0px 0px 0px;
+  border-color: #e5d7ca;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-1008
+  .elementor-element.elementor-element-8dce64f
+  > .elementor-element-populated
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-1008 .elementor-element.elementor-element-375bcb5 img {
+  width: 100%;
+  max-width: 100%;
+  height: 827px;
+  object-fit: cover;
+}
+@media (max-width: 1540px) {
+  .elementor-1008 .elementor-element.elementor-element-e4e7483 {
+    width: 100%;
+    max-width: 100%;
+  }
+  .elementor-1008 .elementor-element.elementor-element-375bcb5 img {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media (max-width: 1024px) {
+  .elementor-1008 .elementor-element.elementor-element-375bcb5 img {
+    width: 100%;
+    max-width: 100%;
+    height: 500px;
+  }
+}
+@media (max-width: 479px) {
+  .elementor-1008
+    .elementor-element.elementor-element-e4e7483
+    .wdt-heading-holder
+    .wdt-heading-title-wrapper
+    .wdt-heading-title {
+    letter-spacing: 2px;
+  }
+}
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   .dark-bg-breadcrumb .main-title-section h1,
   .main-title-section h1 {
