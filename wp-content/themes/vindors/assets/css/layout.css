@@ -128,7 +128,7 @@ body::-webkit-scrollbar-thumb
     grid-area: 1/1; display: flex; flex-direction: row; flex-wrap: nowrap; align-items: center; justify-content: center;
 }
 .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-advanced-number-counter-value,  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-content-advanced-number-counter-suffix {
-    color: rgba(170, 128, 72, 0.5); font-family: var(--wdtFontTypo_Alt); font-size: calc(var(--wdtFontSize_Alt) + 50px); font-weight: calc(var(--wdtFontWeight_Ext) + 200);
+    color: rgba(170, 128, 72, 0.5); font-family: var(--wdtFontTypo_Alt); font-size: calc(var(--wdtFontSize_Alt) + 30px); font-weight: calc(var(--wdtFontWeight_Ext) + 200);
     line-height: var(--wdtLineHeight_Alt); margin: 0;
 }
 
