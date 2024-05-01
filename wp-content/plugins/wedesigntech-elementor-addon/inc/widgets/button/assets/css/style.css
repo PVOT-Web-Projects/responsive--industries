@@ -1,10 +1,10 @@
 .wdt-button-holder { display: inline-flex; position: relative; -webkit-transition: var(--wdt-elementor-base-transition); transition: var(--wdt-elementor-base-transition); }
 .wdt-button { border: 0px solid transparent; display: inline-flex; align-items: stretch; font-size: var(--wdtFontSize_Ext); letter-spacing: 2.64px; line-height: normal; margin: 0; overflow: visible; position: relative; z-index: 0; text-decoration: none; text-transform: uppercase; -webkit-transition: var(--wdt-elementor-base-transition); transition: var(--wdt-elementor-base-transition); font-weight: 500;}
 
-.wdt-button, .wdt-button-holder .wdt-button { background-color: var(--wdt-elementor-color-accent); color: var(--wdt-elementor-color-white); justify-content: center; text-align: center; }
+.wdt-button, .wdt-button-holder .wdt-button { background-color: #124E66; color: var(--wdt-elementor-color-white); justify-content: center; text-align: center; }
 
 .wdt-button:focus, .wdt-button-holder .wdt-button:focus,
-.wdt-button:hover, .wdt-button-holder .wdt-button:hover { background-color: var(--wdt-elementor-color-primary); color: var(--wdt-elementor-color-white); }
+.wdt-button:hover, .wdt-button-holder .wdt-button:hover { background-color: #2F3943; color: var(--wdt-elementor-color-white); }
 
 .wdt-button .wdt-button-text, 
 .wdt-button .wdt-button-icon { vertical-align: top; }
