@@ -249,6 +249,10 @@ h6 {
   height: 827px;
   object-fit: cover;
 }
+.four_cards_section{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
 @media (max-width: 1540px) {
   .elementor-1008 .elementor-element.elementor-element-e4e7483 {
     width: 100%;
