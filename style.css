@@ -131,9 +131,22 @@ h6 {
   vertical-align: top;
   width: 1em;
 }
+.wdt-heading-holder .wdt-heading-subtitle-wrapper .wdt-heading-subtitle{
+  text-align: center !important;
+}
 .section_three {
   padding-bottom: 120px;
 }
+.elementor-section.elementor-section-boxed > .elementor-container {
+  margin: 0 25px !important;
+  max-width: 100% !important;
+}
+.news_section{
+  text-align: center !important;
+}
+/* .wdt-heading-title {
+  text-align: center !important;
+} */
 /* .wdt-content-icon-wrapper {
   font-size: 20px;
   width: 50px;
