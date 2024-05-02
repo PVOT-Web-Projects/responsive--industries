@@ -68,6 +68,19 @@ h6 {
   font-size: 18px;
   line-height: 1.2;
 }
+.news_subhead{
+  text-align: center !important;
+}
+.news_heading{
+  font-size: 39px !important;
+}
+.product_heading{
+  font-size: 43px !important;
+}
+.multi_subhead{
+  text-align: center !;
+}
+
 .dark-bg-breadcrumb .main-title-section h1,
 .main-title-section h1 {
   font-family: "Montserrat", sans-serif;
@@ -108,7 +121,7 @@ h6 {
   background-color: var(--wdtTertiaryColor);
 }
 .wdt-heading-holder .wdt-heading-subtitle-wrapper .wdt-heading-subtitle {
-  color: #2F3943;
+  color: #124E66;
 }
 .wdt-heading-subtitle {
   text-align: start;
