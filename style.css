@@ -358,6 +358,9 @@ h6 {
 {
   color: white !important;
 } */
+.wdt-no-header-builder-content .no-header .no-header-title a img, .wdt-logo-container a img {
+  max-width: 180px !important;
+}
 @media (max-width: 1540px) {
   .elementor-1008 .elementor-element.elementor-element-e4e7483 {
     width: 100%;
