@@ -72,7 +72,7 @@
 
     /* Links */
     a { color: var(--wdtLinkColor); }
-    a:hover { color: var(--wdtLinkHoverColor); }
+    a:hover { color:  #124E66 ; }
 
 
     /* Headings */
@@ -95,7 +95,7 @@
 
     #footer a:not(.button):not(.elementor-button), .footer-widgets a:not(.button):not(.elementor-button) { color: var(--wdtLinkColor); }
 
-    #footer a:not(.button):not(.elementor-button):hover, .footer-widgets a:not(.button):not(.elementor-button):hover { color: var(--wdtLinkHoverColor); }
+    #footer a:not(.button):not(.elementor-button):hover, .footer-widgets a:not(.button):not(.elementor-button):hover { color: #124E66 ; }
 
     #footer .wdt-dark-bg a, #footer .wdt-dark-bg .footer-widgets a:not(.button):not(.elementor-button), #footer .wdt-dark-bg a:not(.button):not(.elementor-button) { color: var(--wdtAccentTxtColor); }
 

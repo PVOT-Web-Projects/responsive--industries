@@ -65,4 +65,4 @@
 
     #footer a:not(.button):not(.elementor-button), .footer-widgets a:not(.button):not(.elementor-button) { color: var(--wdtBodyTxtColor); }
 
-    #footer a:not(.button):not(.elementor-button):hover, .footer-widgets a:not(.button):not(.elementor-button):hover { color: var(--wdtLinkHoverColor); }
+    #footer a:not(.button):not(.elementor-button):hover, .footer-widgets a:not(.button):not(.elementor-button):hover { color: #124E66 ; }
