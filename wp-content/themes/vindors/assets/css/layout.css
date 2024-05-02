@@ -134,7 +134,7 @@ body::-webkit-scrollbar-thumb
 
 @media only screen and (max-width: 1540px) {
  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-advanced-number-counter-value,  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-content-advanced-number-counter-suffix {
-    font-size: calc(var(--wdtFontSize_Alt) + 9px);
+    font-size: calc(var(--wdtFontSize_Alt) + 5px);
   }
 }
 
