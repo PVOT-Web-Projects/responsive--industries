@@ -62,7 +62,7 @@
 .wdt-custom-service-style .wdt-content-item:hover .wdt-content-image > a:after { opacity: 1; height: 160px;}
 .wdt-custom-service-style .wdt-content-item .wdt-content-title h5 { font-size: var(--wdtFontSize_H3); letter-spacing: 2.5px; text-transform: uppercase; font-weight: var(--wdtFontWeight_Alt);}
 
-.wdt-custom-service-style .wdt-content-item .wdt-content-elements-group .wdt-content-button a { position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%); background: transparent; color: var(--wdtSecondaryColor); font-size: var(--wdtFontSize_Ext); font-weight: 600; letter-spacing: 2.64px; text-transform: uppercase; opacity: 0; width: max-content; }
+.wdt-custom-service-style .wdt-content-item .wdt-content-elements-group .wdt-content-button a { position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%); background: transparent; color:#D3D9D5; font-size: var(--wdtFontSize_Ext); font-weight: 600; letter-spacing: 2.64px; text-transform: uppercase; opacity: 0; width: max-content; }
 .wdt-custom-service-style .wdt-content-item .wdt-content-elements-group .wdt-content-button a span:after {
     content: '';
     -webkit-mask-image: url("data:image/svg+xml,%3Csvg width='20.66px' height='20px' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M17 12L7 12M17 12L13 16M17 12L13 8' stroke='currentcolor' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
@@ -85,7 +85,7 @@
 .wdt-custom-service-style .wdt-content-item .wdt-content-elements-group .wdt-content-button a:hover span:after { right: -5px;}
 .wdt-custom-service-style .wdt-content-item:hover .wdt-content-elements-group .wdt-content-button a { opacity: 1;}
 
-.wdt-custom-service-style.wdt-custom-home-3-service .wdt-content-item .wdt-content-image > a:after { background-image: linear-gradient(180deg, #0060FF00, #0060FF); opacity: 0.8; }
+.wdt-custom-service-style.wdt-custom-home-3-service .wdt-content-item .wdt-content-image > a:after { background-image: linear-gradient(180deg, #0060FF00, #124E66); opacity: 0.8; }
 
 /*Img Box*/
 
