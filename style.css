@@ -127,7 +127,46 @@ h6 {
   text-align: start;
   justify-content: start;
   justify-items: start;
+
 }
+
+
+
+
+.wdt-content-buttonX{
+  background-color:#124E66 !important;
+
+}
+
+.wdt-content-buttonX:hover{
+  background-color:#2F3943 !important;
+
+}
+
+
+
+.wdt-heading-title{
+  font-size: 34px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .wdt-heading-title {
   text-transform: uppercase;
   align-items: center;

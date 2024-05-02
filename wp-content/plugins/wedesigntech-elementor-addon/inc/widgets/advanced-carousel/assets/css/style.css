@@ -36,7 +36,7 @@
 
 /*custom css*/
 .wdt-cus-adv-carousel-with-fraction1 .wdt-advanced-carousel-holder .wdt-carousel-pagination-wrapper .wdt-swiper-pagination.swiper-pagination-fraction{
-    background-color: #ECDDCD; height: 1px; width: 72px; color: transparent;
+    background-color: #124E66; height: 1px; width: 72px; color: transparent;
 } 
 .wdt-cus-adv-carousel-with-fraction1 .wdt-advanced-carousel-holder .wdt-carousel-pagination-wrapper{
     position: absolute; left: 200px; bottom: 28%; z-index: 1;
@@ -45,10 +45,10 @@
     position: relative; left: -22px; top: -12px; color: var(--wdtBodyTxtColor); font-size: var(--wdtFontSize_Base); font-weight: calc(var(--wdtFontWeight_Ext) + 100 );
 }
  .wdt-cus-adv-carousel-with-fraction1 .wdt-advanced-carousel-holder .wdt-carousel-pagination-wrapper .wdt-swiper-pagination.swiper-pagination-fraction span.swiper-pagination-total{
-     position: relative; right: -32px; top: 12px; color: #ECDDCD; font-size: var(--wdtFontSize_Base); font-weight: var(--wdtFontWeight_Alt);
+     position: relative; right: -32px; top: 12px; color: #748D92; font-size: var(--wdtFontSize_Base); font-weight: var(--wdtFontWeight_Alt);
  }
 .wdt-cus-adv-carousel-with-fraction1 .wdt-advanced-carousel-holder .wdt-carousel-pagination-wrapper .wdt-swiper-pagination.swiper-pagination-fraction{
-    background-color: #ECDDCD; height: 1px; width: 72px; color: transparent;
+    background-color: #124E66; height: 1px; width: 72px; color: transparent;
 }
 
 @media only screen and (max-width:1540px){
