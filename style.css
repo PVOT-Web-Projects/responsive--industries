@@ -302,6 +302,20 @@ h6 {
 .Trending_blog_main{
   padding-bottom: 25px;
 }
+.export_item{
+  color: white !important;
+}
+ /* .wdt-content-title h5 a
+{
+  color: white !important;
+} */
+/* .wdt-content-item .wdt-content-title h5, .wdt-content-item .wdt-content-title .export_main a{
+  color: white !important;
+} */
+/* .wdt-content-item .wdt-content-title h5, .wdt-content-item .wdt-content-title h5 a
+{
+  color: white !important;
+} */
 @media (max-width: 1540px) {
   .elementor-1008 .elementor-element.elementor-element-e4e7483 {
     width: 100%;
