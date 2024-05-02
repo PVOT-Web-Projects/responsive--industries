@@ -108,7 +108,7 @@ h6 {
   background-color: var(--wdtTertiaryColor);
 }
 .wdt-heading-holder .wdt-heading-subtitle-wrapper .wdt-heading-subtitle {
-  color: #146bc3;
+  color: #2F3943;
 }
 .wdt-heading-subtitle {
   text-align: start;
@@ -117,7 +117,7 @@ h6 {
 }
 .wdt-heading-title {
   text-transform: uppercase;
-  align-items: center !important;
+  align-items: center;
 }
 .modern_solution {
   padding-bottom: 3rem;
@@ -214,10 +214,9 @@ h6 {
   .wdt-heading-holder
   > .wdt-heading-subtitle-wrapper
   .wdt-heading-subtitle {
-  text-align: center;
-  justify-content: center;
-  justify-items: center;
- 
+  text-align: start;
+  justify-content: start;
+  justify-items: start;
 }
 .elementor-1008
   .elementor-element.elementor-element-e4e7483
@@ -283,9 +282,6 @@ h6 {
 {
   padding-bottom: 25px;
 }
-.trending_color{
-  color: brown;
-}
 .our_work_main
 {
   padding-bottom: 25px;
@@ -293,7 +289,6 @@ h6 {
 .Trending_blog_main{
   padding-bottom: 25px;
 }
-
 @media (max-width: 1540px) {
   .elementor-1008 .elementor-element.elementor-element-e4e7483 {
     width: 100%;
@@ -325,10 +320,4 @@ h6 {
   .main-title-section h1 {
     font-size: 30px;
   }
-}
-.our_services_heading{
-  font-size: 38px;
-}
-.wdt-heading-align-center{
-  text-align: center;
 }
