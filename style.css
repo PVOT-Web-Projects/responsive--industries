@@ -371,6 +371,11 @@ h6 {
     max-width: 100%;
   }
 }
+/* @media (max-width: 1440px) {
+  .elementor-235 .elementor-element.elementor-element-9c05a6c {
+      width: 40%;
+  }
+} */
 @media (max-width: 1024px) {
   .elementor-1008 .elementor-element.elementor-element-375bcb5 img {
     width: 100%;
@@ -387,6 +392,11 @@ h6 {
     letter-spacing: 2px;
   }
 }
+/* @media (min-width: 480px) {
+  .elementor-235 .elementor-element.elementor-element-b8b4bbd {
+      width: 32% !important;
+  }
+} */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   .dark-bg-breadcrumb .main-title-section h1,
   .main-title-section h1 {
