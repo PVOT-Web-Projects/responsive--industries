@@ -132,6 +132,13 @@ h6 {
 
 
 
+.wdt-content-icon-wrapper{
+  padding: 10px;
+  color: #D3D9D5 !important;
+  background-color:transparent !important;
+
+}
+
 
 .wdt-content-buttonX{
   background-color:#124E66 !important;
@@ -149,7 +156,9 @@ h6 {
   font-size: 34px !important;
 }
 
-
+.wdt-content-item .wdt-content-title h5, .wdt-content-item .wdt-content-title h5 a {
+  color: white !important;
+}
 
 
 
