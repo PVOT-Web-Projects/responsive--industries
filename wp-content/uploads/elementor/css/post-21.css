@@ -94,7 +94,7 @@
   .elementor-column-gap-custom
   .elementor-column
   > .elementor-element-populated {
-  padding: 20px;
+  padding: 0px;
 }
 .elementor-21 .elementor-element.elementor-element-83e5cdd {
   padding: 0px 80px 0px 80px;
@@ -4166,7 +4166,7 @@ body:not(.rtl)
     .elementor-column-gap-custom
     .elementor-column
     > .elementor-element-populated {
-    padding: 15px;
+    padding: 0px;
   }
   .elementor-21 .elementor-element.elementor-element-83e5cdd {
     padding: 0px 20px 0px 20px;
