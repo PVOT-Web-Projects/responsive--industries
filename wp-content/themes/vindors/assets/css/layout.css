@@ -128,25 +128,25 @@ body::-webkit-scrollbar-thumb
     grid-area: 1/1; display: flex; flex-direction: row; flex-wrap: nowrap; align-items: center; justify-content: center;
 }
 .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-advanced-number-counter-value,  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-content-advanced-number-counter-suffix {
-    color: #2F3943; font-family: var(--wdtFontTypo_Alt); font-size: calc(var(--wdtFontSize_Alt) + 28px); font-weight: calc(var(--wdtFontWeight_Ext) + 200);
+    color: #2F3943; font-family: var(--wdtFontTypo_Alt); font-size: calc(var(--wdtFontSize_Alt) + 13px); font-weight: calc(var(--wdtFontWeight_Ext) + 200);
     line-height: var(--wdtLineHeight_Alt); margin: 0;
 }
 
 @media only screen and (max-width: 1540px) {
  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-advanced-number-counter-value,  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-content-advanced-number-counter-suffix {
-    font-size: calc(var(--wdtFontSize_Alt) + 5px);
+    font-size: calc(var(--wdtFontSize_Alt) + 3px);
   }
 }
 
 @media only screen and (max-width: 1280px) {
  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-advanced-number-counter-value,  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-content-advanced-number-counter-suffix {
-    font-size: calc(var(--wdtFontSize_Alt) + 5px);
+    font-size: calc(var(--wdtFontSize_Alt) + 1px);
   }
 }
 
 @media only screen and (max-width: 1024px) {
  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-advanced-number-counter-value,  .wdt-custom-counter-advanced-a .wdt-content-advanced-number-counter-container .wdt-content-advanced-number-counter-wrapper .wdt-content-advanced-number-counter-content-group .wdt-advanced-number-counter-content .wdt-content-advanced-number-counter-suffix {
-    font-size: calc(var(--wdtFontSize_Alt) + 4px);
+    font-size: calc(var(--wdtFontSize_Alt) + 3px);
   }
 } 
  
