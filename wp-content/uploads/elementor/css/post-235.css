@@ -22,7 +22,7 @@
   max-width: 1396px;
 }
 .elementor-235 .elementor-element.elementor-element-8b9ec24 {
-  padding: 150px 150px 80px 150px;
+  padding: 150px 0px 80px 0px;
 }
 .elementor-235
   .elementor-element.elementor-element-b8b4bbd
@@ -398,7 +398,7 @@ body:not(.rtl)
 }
 @media (max-width: 1540px) {
   .elementor-235 .elementor-element.elementor-element-8b9ec24 {
-    padding: 90px 120px 60px 120px;
+    padding: 120px 20px 80px 20px;
   }
   .elementor-235
     .elementor-element.elementor-element-35cb431
@@ -416,13 +416,13 @@ body:not(.rtl)
 }
 @media (min-width: 480px) {
   .elementor-235 .elementor-element.elementor-element-b8b4bbd {
-    width: 38%;
+    width: 35% !important;
   }
   .elementor-235 .elementor-element.elementor-element-9c05a6c {
-    width: 22%;
+    width: 32%;
   }
   .elementor-235 .elementor-element.elementor-element-6ff453a {
-    width: 15%;
+    width: 16%;
   }
   .elementor-235 .elementor-element.elementor-element-ed6b685 {
     width: 25%;
